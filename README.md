@@ -37,6 +37,7 @@ A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
   https://apcwa.org.au/producers-committees/strawberry
   
 ### Questions 
-Can python read PDF for sentiment anaylysis? 
-Are free range pigs more profitable than indoor pigs?
-How does silage quality affect animal prices? 
+Can python read PDF for sentiment anaylysis? /n
+Are free range pigs more profitable than indoor pigs? /n
+How does silage quality affect animal prices? /n
+Further to the above how does the price of animal feeds affect the price of animals? but how do I incorporate sentiment analysis in to this question. 
