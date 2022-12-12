@@ -13,6 +13,8 @@ A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
   https://www.irishgrassland.ie/journals/
   https://www.irishexaminer.com/farming/
   https://www.theaustralianfarmer.com/
+  https://www.fao.org/faostat/en/#data
+  https://data.oecd.org/agriculture.htm
 
 #### Irish Farming organisations 
   https://www.irishfarming.ie
