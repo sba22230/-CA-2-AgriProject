@@ -93,3 +93,5 @@ A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
   + Description: The Agricultural Produce Commission Act 1988 (the Act) provides Western Australian agricultural producers with the legal framework to collect funds to provide for the development and security of growers and producers and their industry sectors.
   + Data: Contains a lot of information on fruit farming in Australia. As well as price data for various agricultural products, including bees.
 + <https://www.dairyaustralia.com.au/>
+  + Description: Dairy Australia is the national service provider for the dairy industry. We work with dairy farmers, processors, manufacturers, retailers and consumers to help grow the industry.
+  + Data: Contains a lot of information on dairy farming in Australia. And various industry reports.
