@@ -92,11 +92,4 @@ A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
 + <https://apcwa.org.au/producers-committees/strawberry>
   + Description: The Agricultural Produce Commission Act 1988 (the Act) provides Western Australian agricultural producers with the legal framework to collect funds to provide for the development and security of growers and producers and their industry sectors.
   + Data: Contains a lot of information on fruit farming in Australia. As well as price data for various agricultural products, including bees.
-  
-### Questions
-
-+ Can python read PDF for sentiment anaylysis?
-  + the answer to this is that yes Python has various packages that can extract text from pdf files, but none are particularly good or easy to use.
-+ Are free range pigs more profitable than indoor pigs?
-+ How does silage quality affect animal prices?
-+ Further to the above how does the price of animal feeds affect the price of animals? but how do I incorporate sentiment analysis in to this question.
++ <https://www.dairyaustralia.com.au/>
