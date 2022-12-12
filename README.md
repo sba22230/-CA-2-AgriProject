@@ -1,7 +1,10 @@
+
 # -CA-2-AgriProject
+
 A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
 
-### Some useful links 
+## Some useful links
+
   https://learn.microsoft.com/en-us/azure/industry/agriculture/overview-azure-farmbeats
   https://sentinel.esa.int/web/sentinel/sentinel-data-access
   https://www.agritechnica.com/en
@@ -16,7 +19,8 @@ A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
   https://www.fao.org/faostat/en/#data
   https://data.oecd.org/agriculture.htm
 
-#### Irish Farming organisations 
+### Irish Farming organisations
+
   https://www.irishfarming.ie
   https://www.ifa.ie
   www.inhfa.ie
@@ -26,19 +30,22 @@ A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
   https://icsaireland.ie/
   https://macra.ie/
 
-#### American Farming organisations
+### American Farming organisations
+
   https://www.fb.org/
   https://amerpoultryassn.com/
   https://www.ffa.org/
   https://ifas.ufl.edu/
   https://nfu.org/
   
-#### Antipodean Farming Organisations 
+### Antipodean Farming Organisations
+
   https://www.agribusiness.asn.au/
   https://www.agriculture.gov.au/
   https://apcwa.org.au/producers-committees/strawberry
   
-### Questions 
+### Questions
+
 Can python read PDF for sentiment anaylysis? /n
 Are free range pigs more profitable than indoor pigs? /n
 How does silage quality affect animal prices? /n
