@@ -95,3 +95,5 @@ A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
 + <https://www.dairyaustralia.com.au/>
   + Description: Dairy Australia is the national service provider for the dairy industry. We work with dairy farmers, processors, manufacturers, retailers and consumers to help grow the industry.
   + Data: Contains a lot of information on dairy farming in Australia. And various industry reports.
+
+Don't forget the library - DLR and CCT
