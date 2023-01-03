@@ -97,3 +97,8 @@ A repo to hold my juypter notebook for my CA 2 for MSc Data Analytics
   + Data: Contains a lot of information on dairy farming in Australia. And various industry reports.
 
 Don't forget the library - DLR and CCT
+
+### Code Snippets
++ https://huggingface.co/blog/sentiment-analysis-python#2-how-to-use-pre-trained-sentiment-analysis-models-with-python
+     import torch
+       torch.cuda.is_available()
