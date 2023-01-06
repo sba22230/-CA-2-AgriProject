@@ -1,65 +1,65 @@
 memberStateCode,memberStateName,beginDate,endDate,weekNumber,price,unit,productName,marketName,stageName
 BG,Bulgaria,13/12/2010,19/12/2010,25,"€186,62",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,13/12/2010,19/12/2010,25,"€196,85",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,13/12/2010,19/12/2010,25,"€161,06",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,13/12/2010,19/12/2010,25,"€196,85",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 RO,Romania,13/12/2010,19/12/2010,25,"€129,46",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,13/12/2010,19/12/2010,25,"€197,32",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
-RO,Romania,13/12/2010,19/12/2010,25,"€173,64",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,13/12/2010,19/12/2010,25,"€178,22",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,13/12/2010,19/12/2010,25,"€173,64",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 BG,Bulgaria,01/11/2010,07/11/2010,19,"€168,73",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,01/11/2010,07/11/2010,19,"€189,18",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,01/11/2010,07/11/2010,19,"€176,40",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,01/11/2010,07/11/2010,19,"€189,18",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 RO,Romania,01/11/2010,07/11/2010,19,"€144,83",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,01/11/2010,07/11/2010,19,"€199,57",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
-RO,Romania,01/11/2010,07/11/2010,19,"€167,46",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,01/11/2010,07/11/2010,19,"€104,11",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,01/11/2010,07/11/2010,19,"€167,46",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,01/11/2010,07/11/2010,19,"€177,03",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
-BG,Bulgaria,20/09/2010,26/09/2010,13,"€150,83",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,20/09/2010,26/09/2010,13,"€158,50",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,20/09/2010,26/09/2010,13,"€168,73",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,20/09/2010,26/09/2010,13,"€173,84",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-RO,Romania,20/09/2010,26/09/2010,13,"€98,89",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,20/09/2010,26/09/2010,13,"€166,22",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,20/09/2010,26/09/2010,13,"€244,69",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
+BG,Bulgaria,20/09/2010,26/09/2010,13,"€150,83",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
 RO,Romania,20/09/2010,26/09/2010,13,"€150,82",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,20/09/2010,26/09/2010,13,"€244,69",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
 RO,Romania,20/09/2010,26/09/2010,13,"€142,91",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,20/09/2010,26/09/2010,13,"€166,22",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,20/09/2010,26/09/2010,13,"€98,89",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
+BG,Bulgaria,09/08/2010,15/08/2010,7,"€112,49",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,09/08/2010,15/08/2010,7,"€168,73",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,09/08/2010,15/08/2010,7,"€148,28",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,09/08/2010,15/08/2010,7,"€112,49",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
-RO,Romania,09/08/2010,15/08/2010,7,"€108,36",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,09/08/2010,15/08/2010,7,"€134,96",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,09/08/2010,15/08/2010,7,"€152,89",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,09/08/2010,15/08/2010,7,"€108,36",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,09/08/2010,15/08/2010,7,"€111,37",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
-BG,Bulgaria,28/06/2010,04/07/2010,1,"€99,70",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,28/06/2010,04/07/2010,1,"€88,45",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
+RO,Romania,09/08/2010,15/08/2010,7,"€152,89",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 BG,Bulgaria,28/06/2010,04/07/2010,1,"€99,70",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
-RO,Romania,28/06/2010,04/07/2010,1,"€114,72",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,28/06/2010,04/07/2010,1,"€98,78",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,28/06/2010,04/07/2010,1,"€97,68",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
+BG,Bulgaria,28/06/2010,04/07/2010,1,"€88,45",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,28/06/2010,04/07/2010,1,"€99,70",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 RO,Romania,28/06/2010,04/07/2010,1,"€112,51",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,28/06/2010,04/07/2010,1,"€114,72",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,28/06/2010,04/07/2010,1,"€97,68",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,28/06/2010,04/07/2010,1,"€98,78",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
+BG,Bulgaria,31/05/2010,06/06/2010,49,"€107,37",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,31/05/2010,06/06/2010,49,"€99,70",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,31/05/2010,06/06/2010,49,"€92,03",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,31/05/2010,06/06/2010,49,"€107,37",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-RO,Romania,31/05/2010,06/06/2010,49,"€94,87",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,31/05/2010,06/06/2010,49,"€113,35",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,31/05/2010,06/06/2010,49,"€94,87",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,31/05/2010,06/06/2010,49,"€127,23",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
-BG,Bulgaria,19/04/2010,25/04/2010,43,"€99,70",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,19/04/2010,25/04/2010,43,"€88,45",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,19/04/2010,25/04/2010,43,"€99,70",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,19/04/2010,25/04/2010,43,"€88,45",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,19/04/2010,25/04/2010,43,"€99,70",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 RO,Romania,19/04/2010,25/04/2010,43,"€106,44",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,19/04/2010,25/04/2010,43,"€111,86",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,19/04/2010,25/04/2010,43,"€115,77",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,19/04/2010,25/04/2010,43,"€111,86",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,19/04/2010,25/04/2010,43,"€95,98",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
-BG,Bulgaria,08/03/2010,14/03/2010,37,"€117,60",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,08/03/2010,14/03/2010,37,"€109,93",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,08/03/2010,14/03/2010,37,"€117,60",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,08/03/2010,14/03/2010,37,"€94,59",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
-RO,Romania,08/03/2010,14/03/2010,37,"€125,20",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,08/03/2010,14/03/2010,37,"€88,87",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,08/03/2010,14/03/2010,37,"€108,61",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,08/03/2010,14/03/2010,37,"€125,20",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,08/03/2010,14/03/2010,37,"€122,63",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,08/03/2010,14/03/2010,37,"€108,61",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
 BG,Bulgaria,25/01/2010,31/01/2010,31,"€97,15",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,25/01/2010,31/01/2010,31,"€117,60",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
-RO,Romania,25/01/2010,31/01/2010,31,"€126,90",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,25/01/2010,31/01/2010,31,"€116,21",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,25/01/2010,31/01/2010,31,"€119,79",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,25/01/2010,31/01/2010,31,"€126,90",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,25/01/2010,31/01/2010,31,"€91,05",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,25/01/2010,31/01/2010,31,"€119,79",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
