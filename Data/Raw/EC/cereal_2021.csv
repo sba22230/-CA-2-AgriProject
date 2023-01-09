@@ -1,233 +1,233 @@
 memberStateCode,memberStateName,beginDate,endDate,weekNumber,price,unit,productName,marketName,stageName
-AT,Austria,13/12/2021,19/12/2021,25,"€250,00",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,13/12/2021,19/12/2021,25,"€246,50",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,13/12/2021,19/12/2021,25,"€310,00",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,13/12/2021,19/12/2021,25,"€250,00",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,13/12/2021,19/12/2021,25,"€275,00",TONNES,Feed wheat,Wels,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,13/12/2021,19/12/2021,25,"€322,50",TONNES,Milling wheat,Wien,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,13/12/2021,19/12/2021,25,"€246,50",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,13/12/2021,19/12/2021,25,"€250,00",TONNES,Feed barley,Wels,Departure from silo - after some storage - on truck or other transport means
 BE,Belgium,13/12/2021,19/12/2021,25,"€263,00",TONNES,Maize,Brussel - Bruxelles,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,13/12/2021,19/12/2021,25,"€247,98",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,13/12/2021,19/12/2021,25,"€224,97",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
-HR,Croatia,13/12/2021,19/12/2021,25,"€264,58",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 HR,Croatia,13/12/2021,19/12/2021,25,"€222,03",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
+HR,Croatia,13/12/2021,19/12/2021,25,"€264,58",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 CZ,Czechia,13/12/2021,19/12/2021,25,"€255,25",TONNES,Milling wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,13/12/2021,19/12/2021,25,"€282,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FI,Finland,13/12/2021,19/12/2021,25,"€279,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,13/12/2021,19/12/2021,25,"€287,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,13/12/2021,19/12/2021,25,"€310,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,13/12/2021,19/12/2021,25,"€281,65",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
+FI,Finland,13/12/2021,19/12/2021,25,"€279,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,13/12/2021,19/12/2021,25,"€258,65",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,13/12/2021,19/12/2021,25,"€281,65",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,13/12/2021,19/12/2021,25,"€282,65",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 DE,Germany,13/12/2021,19/12/2021,25,"€293,00",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
-DE,Germany,13/12/2021,19/12/2021,25,"€259,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
-DE,Germany,13/12/2021,19/12/2021,25,"€286,00",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,13/12/2021,19/12/2021,25,"€269,00",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,13/12/2021,19/12/2021,25,"€286,00",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,13/12/2021,19/12/2021,25,"€259,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
 HU,Hungary,13/12/2021,19/12/2021,25,"€253,02",TONNES,Maize,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 IE,Ireland,13/12/2021,19/12/2021,25,"€308,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IE,Ireland,13/12/2021,19/12/2021,25,"€305,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,13/12/2021,19/12/2021,25,"€303,00",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,13/12/2021,19/12/2021,25,"€281,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,13/12/2021,19/12/2021,25,"€527,50",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,13/12/2021,19/12/2021,25,"€281,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,13/12/2021,19/12/2021,25,"€303,00",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,13/12/2021,19/12/2021,25,"€323,00",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,13/12/2021,19/12/2021,25,"€211,98",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,13/12/2021,19/12/2021,25,"€258,71",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,13/12/2021,19/12/2021,25,"€261,17",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+NL,Netherlands,13/12/2021,19/12/2021,25,"€289,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,13/12/2021,19/12/2021,25,"€273,00",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,13/12/2021,19/12/2021,25,"€277,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-NL,Netherlands,13/12/2021,19/12/2021,25,"€289,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-PL,Poland,13/12/2021,19/12/2021,25,"€275,14",TONNES,Feed wheat,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,13/12/2021,19/12/2021,25,"€228,56",TONNES,Maize,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,13/12/2021,19/12/2021,25,"€283,87",TONNES,Milling wheat,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,13/12/2021,19/12/2021,25,"€260,25",TONNES,Triticale,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,13/12/2021,19/12/2021,25,"€270,96",TONNES,Malting barley,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,13/12/2021,19/12/2021,25,"€243,14",TONNES,Feed barley,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,13/12/2021,19/12/2021,25,"€242,32",TONNES,Milling rye,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,13/12/2021,19/12/2021,25,"€230,23",TONNES,Feed rye,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,13/12/2021,19/12/2021,25,"€242,32",TONNES,Milling rye,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,13/12/2021,19/12/2021,25,"€243,14",TONNES,Feed barley,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,13/12/2021,19/12/2021,25,"€275,14",TONNES,Feed wheat,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,13/12/2021,19/12/2021,25,"€283,87",TONNES,Milling wheat,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,13/12/2021,19/12/2021,25,"€228,56",TONNES,Maize,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,13/12/2021,19/12/2021,25,"€260,25",TONNES,Triticale,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PT,Portugal,13/12/2021,19/12/2021,25,"€305,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,13/12/2021,19/12/2021,25,"€305,00",TONNES,Feed wheat,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,13/12/2021,19/12/2021,25,"€275,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-PT,Portugal,13/12/2021,19/12/2021,25,"€305,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
+RO,Romania,13/12/2021,19/12/2021,25,"€209,11",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,13/12/2021,19/12/2021,25,"€251,13",TONNES,Maize,Constanta,Free On Board - Incoterm
 RO,Romania,13/12/2021,19/12/2021,25,"€254,56",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,13/12/2021,19/12/2021,25,"€257,39",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,13/12/2021,19/12/2021,25,"€232,34",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,13/12/2021,19/12/2021,25,"€248,70",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
-RO,Romania,13/12/2021,19/12/2021,25,"€251,13",TONNES,Maize,Constanta,Free On Board - Incoterm
-RO,Romania,13/12/2021,19/12/2021,25,"€257,39",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,13/12/2021,19/12/2021,25,"€209,11",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 SK,Slovakia,13/12/2021,19/12/2021,25,"€200,24",TONNES,Maize,Bratislava,Departure from farm or from production area - on truck or other transport means
 SK,Slovakia,13/12/2021,19/12/2021,25,"€231,23",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
-SI,Slovenia,13/12/2021,19/12/2021,25,"€255,19",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,13/12/2021,19/12/2021,25,"€300,00",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
+SI,Slovenia,13/12/2021,19/12/2021,25,"€255,19",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 ES,Spain,13/12/2021,19/12/2021,25,"€297,00",TONNES,Malting barley,Navarra,Departure from silo - after some storage - on truck or other transport means
-ES,Spain,13/12/2021,19/12/2021,25,"€287,20",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,13/12/2021,19/12/2021,25,"€540,00",TONNES,Durum wheat,Sevilla,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,13/12/2021,19/12/2021,25,"€287,20",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,13/12/2021,19/12/2021,25,"€274,40",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,13/12/2021,19/12/2021,25,"€292,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,13/12/2021,19/12/2021,25,"€274,01",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
 AT,Austria,01/11/2021,07/11/2021,19,"€247,00",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
 BE,Belgium,01/11/2021,07/11/2021,19,"€284,00",TONNES,Maize,Brussel - Bruxelles,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,01/11/2021,07/11/2021,19,"€258,21",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,01/11/2021,07/11/2021,19,"€268,43",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,01/11/2021,07/11/2021,19,"€250,54",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,01/11/2021,07/11/2021,19,"€258,21",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,01/11/2021,07/11/2021,19,"€224,97",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
-HR,Croatia,01/11/2021,07/11/2021,19,"€256,52",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
+BG,Bulgaria,01/11/2021,07/11/2021,19,"€250,54",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 HR,Croatia,01/11/2021,07/11/2021,19,"€206,02",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
+HR,Croatia,01/11/2021,07/11/2021,19,"€256,52",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 CZ,Czechia,01/11/2021,07/11/2021,19,"€234,76",TONNES,Milling wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,01/11/2021,07/11/2021,19,"€231,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
+FI,Finland,01/11/2021,07/11/2021,19,"€265,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,01/11/2021,07/11/2021,19,"€250,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,01/11/2021,07/11/2021,19,"€232,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FI,Finland,01/11/2021,07/11/2021,19,"€265,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,01/11/2021,07/11/2021,19,"€282,47",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,01/11/2021,07/11/2021,19,"€282,97",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,01/11/2021,07/11/2021,19,"€257,72",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,01/11/2021,07/11/2021,19,"€282,97",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,01/11/2021,07/11/2021,19,"€282,47",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
+DE,Germany,01/11/2021,07/11/2021,19,"€265,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,01/11/2021,07/11/2021,19,"€289,00",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,01/11/2021,07/11/2021,19,"€267,00",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
-DE,Germany,01/11/2021,07/11/2021,19,"€265,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,01/11/2021,07/11/2021,19,"€293,00",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 HU,Hungary,01/11/2021,07/11/2021,19,"€258,68",TONNES,Maize,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
-IE,Ireland,01/11/2021,07/11/2021,19,"€285,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IE,Ireland,01/11/2021,07/11/2021,19,"€290,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,01/11/2021,07/11/2021,19,"€311,00",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,01/11/2021,07/11/2021,19,"€271,00",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IE,Ireland,01/11/2021,07/11/2021,19,"€285,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,01/11/2021,07/11/2021,19,"€542,50",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,01/11/2021,07/11/2021,19,"€271,00",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,01/11/2021,07/11/2021,19,"€311,00",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,01/11/2021,07/11/2021,19,"€286,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,01/11/2021,07/11/2021,19,"€248,63",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,01/11/2021,07/11/2021,19,"€212,97",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,01/11/2021,07/11/2021,19,"€244,88",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,01/11/2021,07/11/2021,19,"€166,65",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,01/11/2021,07/11/2021,19,"€212,97",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,01/11/2021,07/11/2021,19,"€248,63",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,01/11/2021,07/11/2021,19,"€244,88",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+NL,Netherlands,01/11/2021,07/11/2021,19,"€297,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,01/11/2021,07/11/2021,19,"€294,00",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,01/11/2021,07/11/2021,19,"€306,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-NL,Netherlands,01/11/2021,07/11/2021,19,"€297,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-PL,Poland,01/11/2021,07/11/2021,19,"€243,23",TONNES,Milling wheat,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,01/11/2021,07/11/2021,19,"€248,46",TONNES,Feed wheat,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,01/11/2021,07/11/2021,19,"€210,54",TONNES,Maize,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,01/11/2021,07/11/2021,19,"€206,97",TONNES,Triticale,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,01/11/2021,07/11/2021,19,"€201,79",TONNES,Feed rye,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,01/11/2021,07/11/2021,19,"€200,64",TONNES,Milling rye,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,01/11/2021,07/11/2021,19,"€211,23",TONNES,Feed barley,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,01/11/2021,07/11/2021,19,"€243,23",TONNES,Milling wheat,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,01/11/2021,07/11/2021,19,"€248,46",TONNES,Feed wheat,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,01/11/2021,07/11/2021,19,"€230,17",TONNES,Malting barley,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
-PT,Portugal,01/11/2021,07/11/2021,19,"€274,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
+PL,Poland,01/11/2021,07/11/2021,19,"€211,23",TONNES,Feed barley,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,01/11/2021,07/11/2021,19,"€200,64",TONNES,Milling rye,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,01/11/2021,07/11/2021,19,"€201,79",TONNES,Feed rye,National average,Deliver to first customer - silo or processing plant - on truck or other transport means
 PT,Portugal,01/11/2021,07/11/2021,19,"€300,00",TONNES,Feed wheat,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
+PT,Portugal,01/11/2021,07/11/2021,19,"€274,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,01/11/2021,07/11/2021,19,"€300,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 RO,Romania,01/11/2021,07/11/2021,19,"€247,90",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,01/11/2021,07/11/2021,19,"€229,92",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,01/11/2021,07/11/2021,19,"€212,95",TONNES,Maize,Constanta,Free On Board - Incoterm
-RO,Romania,01/11/2021,07/11/2021,19,"€198,61",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,01/11/2021,07/11/2021,19,"€259,02",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
-SK,Slovakia,01/11/2021,07/11/2021,19,"€206,49",TONNES,Maize,Bratislava,Departure from farm or from production area - on truck or other transport means
+RO,Romania,01/11/2021,07/11/2021,19,"€198,61",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,01/11/2021,07/11/2021,19,"€212,95",TONNES,Maize,Constanta,Free On Board - Incoterm
+RO,Romania,01/11/2021,07/11/2021,19,"€229,92",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 SK,Slovakia,01/11/2021,07/11/2021,19,"€199,81",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
+SK,Slovakia,01/11/2021,07/11/2021,19,"€206,49",TONNES,Maize,Bratislava,Departure from farm or from production area - on truck or other transport means
 SI,Slovenia,01/11/2021,07/11/2021,19,"€263,32",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,01/11/2021,07/11/2021,19,"€238,70",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
-ES,Spain,01/11/2021,07/11/2021,19,"€304,60",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,01/11/2021,07/11/2021,19,"€286,40",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,01/11/2021,07/11/2021,19,"€304,60",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,01/11/2021,07/11/2021,19,"€306,00",TONNES,Malting barley,Navarra,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,01/11/2021,07/11/2021,19,"€540,00",TONNES,Durum wheat,Sevilla,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,01/11/2021,07/11/2021,19,"€309,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,01/11/2021,07/11/2021,19,"€271,41",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
-AT,Austria,20/09/2021,26/09/2021,13,"€202,50",TONNES,Feed barley,Wels,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,20/09/2021,26/09/2021,13,"€219,50",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,20/09/2021,26/09/2021,13,"€227,50",TONNES,Feed wheat,Wels,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,20/09/2021,26/09/2021,13,"€219,50",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,20/09/2021,26/09/2021,13,"€242,50",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
-BG,Bulgaria,20/09/2021,26/09/2021,13,"€212,19",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
+AT,Austria,20/09/2021,26/09/2021,13,"€202,50",TONNES,Feed barley,Wels,Departure from silo - after some storage - on truck or other transport means
 BG,Bulgaria,20/09/2021,26/09/2021,13,"€194,29",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,20/09/2021,26/09/2021,13,"€217,30",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,20/09/2021,26/09/2021,13,"€204,52",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-HR,Croatia,20/09/2021,26/09/2021,13,"€209,37",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
+BG,Bulgaria,20/09/2021,26/09/2021,13,"€217,30",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,20/09/2021,26/09/2021,13,"€212,19",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 HR,Croatia,20/09/2021,26/09/2021,13,"€229,37",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
+HR,Croatia,20/09/2021,26/09/2021,13,"€209,37",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 CZ,Czechia,20/09/2021,26/09/2021,13,"€214,76",TONNES,Milling wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,20/09/2021,26/09/2021,13,"€217,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FI,Finland,20/09/2021,26/09/2021,13,"€245,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,20/09/2021,26/09/2021,13,"€178,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,20/09/2021,26/09/2021,13,"€225,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,20/09/2021,26/09/2021,13,"€250,53",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
+FI,Finland,20/09/2021,26/09/2021,13,"€245,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,20/09/2021,26/09/2021,13,"€228,53",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,20/09/2021,26/09/2021,13,"€252,53",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
-DE,Germany,20/09/2021,26/09/2021,13,"€220,00",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
+FR,France,20/09/2021,26/09/2021,13,"€250,53",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 DE,Germany,20/09/2021,26/09/2021,13,"€245,00",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,20/09/2021,26/09/2021,13,"€222,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,20/09/2021,26/09/2021,13,"€256,00",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,20/09/2021,26/09/2021,13,"€220,00",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
 HU,Hungary,20/09/2021,26/09/2021,13,"€230,94",TONNES,Maize,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
-IE,Ireland,20/09/2021,26/09/2021,13,"€240,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IE,Ireland,20/09/2021,26/09/2021,13,"€248,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,20/09/2021,26/09/2021,13,"€263,00",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IE,Ireland,20/09/2021,26/09/2021,13,"€240,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,20/09/2021,26/09/2021,13,"€263,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,20/09/2021,26/09/2021,13,"€241,00",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,20/09/2021,26/09/2021,13,"€477,50",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,20/09/2021,26/09/2021,13,"€263,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,20/09/2021,26/09/2021,13,"€159,65",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,20/09/2021,26/09/2021,13,"€263,00",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,20/09/2021,26/09/2021,13,"€146,62",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,20/09/2021,26/09/2021,13,"€198,87",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,20/09/2021,26/09/2021,13,"€186,64",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,20/09/2021,26/09/2021,13,"€146,62",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,20/09/2021,26/09/2021,13,"€218,42",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-NL,Netherlands,20/09/2021,26/09/2021,13,"€234,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
+LT,Lithuania,20/09/2021,26/09/2021,13,"€159,65",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 NL,Netherlands,20/09/2021,26/09/2021,13,"€249,50",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
+NL,Netherlands,20/09/2021,26/09/2021,13,"€234,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,20/09/2021,26/09/2021,13,"€241,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 PT,Portugal,20/09/2021,26/09/2021,13,"€265,00",TONNES,Feed wheat,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-PT,Portugal,20/09/2021,26/09/2021,13,"€250,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,20/09/2021,26/09/2021,13,"€260,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-RO,Romania,20/09/2021,26/09/2021,13,"€208,52",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,20/09/2021,26/09/2021,13,"€188,05",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+PT,Portugal,20/09/2021,26/09/2021,13,"€250,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 RO,Romania,20/09/2021,26/09/2021,13,"€187,29",TONNES,Maize,Constanta,Free On Board - Incoterm
-RO,Romania,20/09/2021,26/09/2021,13,"€202,31",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,20/09/2021,26/09/2021,13,"€200,90",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
 RO,Romania,20/09/2021,26/09/2021,13,"€213,33",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,20/09/2021,26/09/2021,13,"€208,52",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,20/09/2021,26/09/2021,13,"€200,90",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
+RO,Romania,20/09/2021,26/09/2021,13,"€188,05",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,20/09/2021,26/09/2021,13,"€202,31",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 SK,Slovakia,20/09/2021,26/09/2021,13,"€193,78",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
-SI,Slovenia,20/09/2021,26/09/2021,13,"€250,40",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,20/09/2021,26/09/2021,13,"€249,81",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
-ES,Spain,20/09/2021,26/09/2021,13,"€230,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
+SI,Slovenia,20/09/2021,26/09/2021,13,"€250,40",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 ES,Spain,20/09/2021,26/09/2021,13,"€237,00",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
-ES,Spain,20/09/2021,26/09/2021,13,"€515,00",TONNES,Durum wheat,Sevilla,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,20/09/2021,26/09/2021,13,"€273,20",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,20/09/2021,26/09/2021,13,"€230,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,20/09/2021,26/09/2021,13,"€515,00",TONNES,Durum wheat,Sevilla,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,20/09/2021,26/09/2021,13,"€240,68",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
-AT,Austria,09/08/2021,15/08/2021,7,"€172,00",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,09/08/2021,15/08/2021,7,"€195,00",TONNES,Feed wheat,Wels,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,09/08/2021,15/08/2021,7,"€215,00",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,09/08/2021,15/08/2021,7,"€180,00",TONNES,Feed barley,Wels,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,09/08/2021,15/08/2021,7,"€215,00",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,09/08/2021,15/08/2021,7,"€218,50",TONNES,Milling wheat,Wien,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,09/08/2021,15/08/2021,7,"€195,00",TONNES,Feed wheat,Wels,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,09/08/2021,15/08/2021,7,"€172,00",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,09/08/2021,15/08/2021,7,"€235,00",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
+BG,Bulgaria,09/08/2021,15/08/2021,7,"€173,84",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,09/08/2021,15/08/2021,7,"€184,07",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,09/08/2021,15/08/2021,7,"€196,85",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,09/08/2021,15/08/2021,7,"€207,08",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,09/08/2021,15/08/2021,7,"€173,84",TONNES,Feed barley,Burgas,Departure from farm or from production area - on truck or other transport means
 HR,Croatia,09/08/2021,15/08/2021,7,"€225,39",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 HR,Croatia,09/08/2021,15/08/2021,7,"€192,05",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
-CZ,Czechia,09/08/2021,15/08/2021,7,"€203,71",TONNES,Milling wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
 CZ,Czechia,09/08/2021,15/08/2021,7,"€169,25",TONNES,Feed wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
+CZ,Czechia,09/08/2021,15/08/2021,7,"€203,71",TONNES,Milling wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
+FI,Finland,09/08/2021,15/08/2021,7,"€200,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
+FI,Finland,09/08/2021,15/08/2021,7,"€195,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,09/08/2021,15/08/2021,7,"€170,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,09/08/2021,15/08/2021,7,"€155,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
-FI,Finland,09/08/2021,15/08/2021,7,"€195,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FI,Finland,09/08/2021,15/08/2021,7,"€200,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,09/08/2021,15/08/2021,7,"€233,93",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,09/08/2021,15/08/2021,7,"€237,43",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,09/08/2021,15/08/2021,7,"€233,93",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,09/08/2021,15/08/2021,7,"€219,93",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
-DE,Germany,09/08/2021,15/08/2021,7,"€234,50",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,09/08/2021,15/08/2021,7,"€225,00",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,09/08/2021,15/08/2021,7,"€234,50",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,09/08/2021,15/08/2021,7,"€209,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
-HU,Hungary,09/08/2021,15/08/2021,7,"€186,77",TONNES,Feed barley,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 HU,Hungary,09/08/2021,15/08/2021,7,"€208,00",TONNES,Maize,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
+HU,Hungary,09/08/2021,15/08/2021,7,"€186,77",TONNES,Feed barley,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 HU,Hungary,09/08/2021,15/08/2021,7,"€215,07",TONNES,Feed wheat,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 IE,Ireland,09/08/2021,15/08/2021,7,"€235,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IE,Ireland,09/08/2021,15/08/2021,7,"€222,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,09/08/2021,15/08/2021,7,"€133,82",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,09/08/2021,15/08/2021,7,"€183,89",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,09/08/2021,15/08/2021,7,"€177,60",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,09/08/2021,15/08/2021,7,"€195,34",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,09/08/2021,15/08/2021,7,"€128,14",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,09/08/2021,15/08/2021,7,"€133,82",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,09/08/2021,15/08/2021,7,"€186,02",TONNES,Malting barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,09/08/2021,15/08/2021,7,"€177,60",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,09/08/2021,15/08/2021,7,"€128,14",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 NL,Netherlands,09/08/2021,15/08/2021,7,"€242,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,09/08/2021,15/08/2021,7,"€235,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,09/08/2021,15/08/2021,7,"€290,00",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-PT,Portugal,09/08/2021,15/08/2021,7,"€212,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,09/08/2021,15/08/2021,7,"€260,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-RO,Romania,09/08/2021,15/08/2021,7,"€195,65",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
-RO,Romania,09/08/2021,15/08/2021,7,"€144,48",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+PT,Portugal,09/08/2021,15/08/2021,7,"€212,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 RO,Romania,09/08/2021,15/08/2021,7,"€246,73",TONNES,Maize,Constanta,Free On Board - Incoterm
 RO,Romania,09/08/2021,15/08/2021,7,"€180,50",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,09/08/2021,15/08/2021,7,"€177,37",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
-SK,Slovakia,09/08/2021,15/08/2021,7,"€186,31",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
+RO,Romania,09/08/2021,15/08/2021,7,"€144,48",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,09/08/2021,15/08/2021,7,"€195,65",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
 SK,Slovakia,09/08/2021,15/08/2021,7,"€147,14",TONNES,Feed barley,Bratislava,Departure from farm or from production area - on truck or other transport means
+SK,Slovakia,09/08/2021,15/08/2021,7,"€186,31",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
 SK,Slovakia,09/08/2021,15/08/2021,7,"€169,61",TONNES,Feed wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
 SI,Slovenia,09/08/2021,15/08/2021,7,"€245,10",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,09/08/2021,15/08/2021,7,"€220,68",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
-ES,Spain,09/08/2021,15/08/2021,7,"€222,80",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,09/08/2021,15/08/2021,7,"€263,20",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,09/08/2021,15/08/2021,7,"€222,80",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,09/08/2021,15/08/2021,7,"€410,00",TONNES,Durum wheat,Sevilla,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,09/08/2021,15/08/2021,7,"€212,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,09/08/2021,15/08/2021,7,"€228,28",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
@@ -240,322 +240,322 @@ HR,Croatia,28/06/2021,04/07/2021,1,"€216,21",TONNES,Milling wheat,Zagreb Depsi
 HR,Croatia,28/06/2021,04/07/2021,1,"€217,55",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 CZ,Czechia,28/06/2021,04/07/2021,1,"€211,76",TONNES,Milling wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,28/06/2021,04/07/2021,1,"€150,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
-FI,Finland,28/06/2021,04/07/2021,1,"€193,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FI,Finland,28/06/2021,04/07/2021,1,"€180,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,28/06/2021,04/07/2021,1,"€165,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,28/06/2021,04/07/2021,1,"€254,73",TONNES,Maize,Bordeaux,Delivered to port - grain delivered to a port silo by train or truck or barge
+FI,Finland,28/06/2021,04/07/2021,1,"€180,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
+FI,Finland,28/06/2021,04/07/2021,1,"€193,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,28/06/2021,04/07/2021,1,"€201,25",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,28/06/2021,04/07/2021,1,"€204,00",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,28/06/2021,04/07/2021,1,"€254,73",TONNES,Maize,Bordeaux,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,28/06/2021,04/07/2021,1,"€203,00",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
 DE,Germany,28/06/2021,04/07/2021,1,"€235,50",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,28/06/2021,04/07/2021,1,"€187,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,28/06/2021,04/07/2021,1,"€235,50",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,28/06/2021,04/07/2021,1,"€177,00",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
-DE,Germany,28/06/2021,04/07/2021,1,"€187,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
 HU,Hungary,28/06/2021,04/07/2021,1,"€169,83",TONNES,Feed barley,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 HU,Hungary,28/06/2021,04/07/2021,1,"€191,15",TONNES,Maize,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
-IE,Ireland,28/06/2021,04/07/2021,1,"€250,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IE,Ireland,28/06/2021,04/07/2021,1,"€242,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,28/06/2021,04/07/2021,1,"€202,00",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,28/06/2021,04/07/2021,1,"€298,50",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IE,Ireland,28/06/2021,04/07/2021,1,"€250,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,28/06/2021,04/07/2021,1,"€263,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,28/06/2021,04/07/2021,1,"€298,50",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,28/06/2021,04/07/2021,1,"€202,00",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,28/06/2021,04/07/2021,1,"€218,00",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,28/06/2021,04/07/2021,1,"€122,42",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,28/06/2021,04/07/2021,1,"€190,85",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,28/06/2021,04/07/2021,1,"€192,79",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,28/06/2021,04/07/2021,1,"€185,46",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,28/06/2021,04/07/2021,1,"€108,89",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,28/06/2021,04/07/2021,1,"€122,42",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,28/06/2021,04/07/2021,1,"€192,79",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,28/06/2021,04/07/2021,1,"€190,85",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,28/06/2021,04/07/2021,1,"€188,63",TONNES,Malting barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,28/06/2021,04/07/2021,1,"€185,46",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 NL,Netherlands,28/06/2021,04/07/2021,1,"€210,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,28/06/2021,04/07/2021,1,"€266,50",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,28/06/2021,04/07/2021,1,"€245,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-PL,Poland,28/06/2021,04/07/2021,1,"€215,94",TONNES,Milling wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,28/06/2021,04/07/2021,1,"€233,91",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,28/06/2021,04/07/2021,1,"€179,88",TONNES,Feed rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,28/06/2021,04/07/2021,1,"€219,38",TONNES,Maize,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,28/06/2021,04/07/2021,1,"€224,60",TONNES,Feed wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,28/06/2021,04/07/2021,1,"€216,66",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,28/06/2021,04/07/2021,1,"€181,33",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,28/06/2021,04/07/2021,1,"€202,22",TONNES,Feed barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,28/06/2021,04/07/2021,1,"€215,94",TONNES,Milling wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,28/06/2021,04/07/2021,1,"€219,99",TONNES,Feed wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,28/06/2021,04/07/2021,1,"€179,88",TONNES,Feed rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,28/06/2021,04/07/2021,1,"€181,33",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,28/06/2021,04/07/2021,1,"€233,91",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,28/06/2021,04/07/2021,1,"€214,71",TONNES,Feed wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,28/06/2021,04/07/2021,1,"€216,66",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,28/06/2021,04/07/2021,1,"€204,93",TONNES,Milling wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PT,Portugal,28/06/2021,04/07/2021,1,"€215,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,28/06/2021,04/07/2021,1,"€225,00",TONNES,Feed wheat,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
+PT,Portugal,28/06/2021,04/07/2021,1,"€215,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,28/06/2021,04/07/2021,1,"€265,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-RO,Romania,28/06/2021,04/07/2021,1,"€159,30",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,28/06/2021,04/07/2021,1,"€175,71",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,28/06/2021,04/07/2021,1,"€180,80",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,28/06/2021,04/07/2021,1,"€166,41",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,28/06/2021,04/07/2021,1,"€159,30",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,28/06/2021,04/07/2021,1,"€180,80",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,28/06/2021,04/07/2021,1,"€175,71",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 SK,Slovakia,28/06/2021,04/07/2021,1,"€183,67",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
 SK,Slovakia,28/06/2021,04/07/2021,1,"€189,97",TONNES,Maize,Bratislava,Departure from farm or from production area - on truck or other transport means
 SI,Slovenia,28/06/2021,04/07/2021,1,"€140,16",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,28/06/2021,04/07/2021,1,"€225,60",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
-ES,Spain,28/06/2021,04/07/2021,1,"€263,80",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,28/06/2021,04/07/2021,1,"€206,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,28/06/2021,04/07/2021,1,"€210,60",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,28/06/2021,04/07/2021,1,"€263,80",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,28/06/2021,04/07/2021,1,"€211,31",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
 AT,Austria,31/05/2021,06/06/2021,49,"€202,50",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,31/05/2021,06/06/2021,49,"€245,00",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
 BE,Belgium,31/05/2021,06/06/2021,49,"€290,00",TONNES,Maize,Brussel - Bruxelles,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,31/05/2021,06/06/2021,49,"€189,18",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,31/05/2021,06/06/2021,49,"€199,41",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,31/05/2021,06/06/2021,49,"€201,96",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
-HR,Croatia,31/05/2021,06/06/2021,49,"€207,82",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
+BG,Bulgaria,31/05/2021,06/06/2021,49,"€189,18",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 HR,Croatia,31/05/2021,06/06/2021,49,"€211,82",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
-FI,Finland,31/05/2021,06/06/2021,49,"€145,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
+HR,Croatia,31/05/2021,06/06/2021,49,"€207,82",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 FI,Finland,31/05/2021,06/06/2021,49,"€174,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
+FI,Finland,31/05/2021,06/06/2021,49,"€145,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,31/05/2021,06/06/2021,49,"€189,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,31/05/2021,06/06/2021,49,"€165,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,31/05/2021,06/06/2021,49,"€217,50",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,31/05/2021,06/06/2021,49,"€205,00",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,31/05/2021,06/06/2021,49,"€291,23",TONNES,Maize,Bordeaux,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,31/05/2021,06/06/2021,49,"€217,00",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,31/05/2021,06/06/2021,49,"€205,00",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
-DE,Germany,31/05/2021,06/06/2021,49,"€245,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
+FR,France,31/05/2021,06/06/2021,49,"€217,50",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
 DE,Germany,31/05/2021,06/06/2021,49,"€224,00",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
-DE,Germany,31/05/2021,06/06/2021,49,"€243,00",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,31/05/2021,06/06/2021,49,"€242,50",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,31/05/2021,06/06/2021,49,"€245,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,31/05/2021,06/06/2021,49,"€243,00",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 HU,Hungary,31/05/2021,06/06/2021,49,"€173,06",TONNES,Feed barley,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 HU,Hungary,31/05/2021,06/06/2021,49,"€249,49",TONNES,Maize,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 IE,Ireland,31/05/2021,06/06/2021,49,"€250,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IE,Ireland,31/05/2021,06/06/2021,49,"€235,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,31/05/2021,06/06/2021,49,"€291,00",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,31/05/2021,06/06/2021,49,"€240,50",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,31/05/2021,06/06/2021,49,"€267,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,31/05/2021,06/06/2021,49,"€141,99",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,31/05/2021,06/06/2021,49,"€240,50",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,31/05/2021,06/06/2021,49,"€291,00",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,31/05/2021,06/06/2021,49,"€192,38",TONNES,Malting barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,31/05/2021,06/06/2021,49,"€174,76",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,31/05/2021,06/06/2021,49,"€184,08",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,31/05/2021,06/06/2021,49,"€133,83",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,31/05/2021,06/06/2021,49,"€184,08",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,31/05/2021,06/06/2021,49,"€141,99",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,31/05/2021,06/06/2021,49,"€189,26",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-NL,Netherlands,31/05/2021,06/06/2021,49,"€252,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-NL,Netherlands,31/05/2021,06/06/2021,49,"€253,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
+LT,Lithuania,31/05/2021,06/06/2021,49,"€174,76",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 NL,Netherlands,31/05/2021,06/06/2021,49,"€278,00",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-PL,Poland,31/05/2021,06/06/2021,49,"€174,88",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,31/05/2021,06/06/2021,49,"€226,24",TONNES,Feed wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,31/05/2021,06/06/2021,49,"€195,24",TONNES,Feed barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,31/05/2021,06/06/2021,49,"€172,87",TONNES,Feed rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,31/05/2021,06/06/2021,49,"€220,99",TONNES,Feed wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
+NL,Netherlands,31/05/2021,06/06/2021,49,"€253,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
+NL,Netherlands,31/05/2021,06/06/2021,49,"€252,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 PL,Poland,31/05/2021,06/06/2021,49,"€212,73",TONNES,Milling wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,31/05/2021,06/06/2021,49,"€218,10",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,31/05/2021,06/06/2021,49,"€225,18",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,31/05/2021,06/06/2021,49,"€223,33",TONNES,Feed wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,31/05/2021,06/06/2021,49,"€195,24",TONNES,Feed barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,31/05/2021,06/06/2021,49,"€217,03",TONNES,Milling wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,31/05/2021,06/06/2021,49,"€226,24",TONNES,Feed wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,31/05/2021,06/06/2021,49,"€225,18",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,31/05/2021,06/06/2021,49,"€228,07",TONNES,Maize,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,31/05/2021,06/06/2021,49,"€172,87",TONNES,Feed rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,31/05/2021,06/06/2021,49,"€218,10",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,31/05/2021,06/06/2021,49,"€220,99",TONNES,Feed wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,31/05/2021,06/06/2021,49,"€174,88",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PT,Portugal,31/05/2021,06/06/2021,49,"€245,00",TONNES,Feed wheat,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-PT,Portugal,31/05/2021,06/06/2021,49,"€235,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,31/05/2021,06/06/2021,49,"€270,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
+PT,Portugal,31/05/2021,06/06/2021,49,"€235,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
+RO,Romania,31/05/2021,06/06/2021,49,"€199,15",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,31/05/2021,06/06/2021,49,"€255,44",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,31/05/2021,06/06/2021,49,"€214,12",TONNES,Maize,Constanta,Free On Board - Incoterm
 RO,Romania,31/05/2021,06/06/2021,49,"€210,03",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
-RO,Romania,31/05/2021,06/06/2021,49,"€199,15",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 SK,Slovakia,31/05/2021,06/06/2021,49,"€183,85",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
-SI,Slovenia,31/05/2021,06/06/2021,49,"€232,49",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,31/05/2021,06/06/2021,49,"€190,75",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
+SI,Slovenia,31/05/2021,06/06/2021,49,"€232,49",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 ES,Spain,31/05/2021,06/06/2021,49,"€208,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,31/05/2021,06/06/2021,49,"€266,20",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,31/05/2021,06/06/2021,49,"€219,80",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,31/05/2021,06/06/2021,49,"€220,91",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
-AT,Austria,19/04/2021,25/04/2021,43,"€169,50",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,19/04/2021,25/04/2021,43,"€205,00",TONNES,Feed wheat,Wels,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,19/04/2021,25/04/2021,43,"€207,50",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,19/04/2021,25/04/2021,43,"€169,50",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,19/04/2021,25/04/2021,43,"€187,50",TONNES,Feed barley,Wels,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,19/04/2021,25/04/2021,43,"€207,50",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
 BE,Belgium,19/04/2021,25/04/2021,43,"€251,00",TONNES,Maize,Brussel - Bruxelles,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,19/04/2021,25/04/2021,43,"€201,96",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 HR,Croatia,19/04/2021,25/04/2021,43,"€196,80",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 HR,Croatia,19/04/2021,25/04/2021,43,"€198,12",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 CZ,Czechia,19/04/2021,25/04/2021,43,"€203,18",TONNES,Milling wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,19/04/2021,25/04/2021,43,"€142,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
+FI,Finland,19/04/2021,25/04/2021,43,"€153,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,19/04/2021,25/04/2021,43,"€174,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,19/04/2021,25/04/2021,43,"€186,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FI,Finland,19/04/2021,25/04/2021,43,"€153,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,19/04/2021,25/04/2021,43,"€219,87",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,19/04/2021,25/04/2021,43,"€220,37",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,19/04/2021,25/04/2021,43,"€200,87",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,19/04/2021,25/04/2021,43,"€219,87",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
+DE,Germany,19/04/2021,25/04/2021,43,"€218,50",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,19/04/2021,25/04/2021,43,"€219,50",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,19/04/2021,25/04/2021,43,"€197,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
-DE,Germany,19/04/2021,25/04/2021,43,"€218,50",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,19/04/2021,25/04/2021,43,"€199,00",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
 HU,Hungary,19/04/2021,25/04/2021,43,"€204,32",TONNES,Maize,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 HU,Hungary,19/04/2021,25/04/2021,43,"€164,29",TONNES,Feed barley,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
 IT,Italy,19/04/2021,25/04/2021,43,"€217,50",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,19/04/2021,25/04/2021,43,"€251,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,19/04/2021,25/04/2021,43,"€231,50",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,19/04/2021,25/04/2021,43,"€289,00",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,19/04/2021,25/04/2021,43,"€231,50",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,19/04/2021,25/04/2021,43,"€109,28",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,19/04/2021,25/04/2021,43,"€164,41",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,19/04/2021,25/04/2021,43,"€167,66",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,19/04/2021,25/04/2021,43,"€110,07",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,19/04/2021,25/04/2021,43,"€198,90",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-NL,Netherlands,19/04/2021,25/04/2021,43,"€231,50",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,19/04/2021,25/04/2021,43,"€246,50",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,19/04/2021,25/04/2021,43,"€216,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-PL,Poland,19/04/2021,25/04/2021,43,"€169,05",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,19/04/2021,25/04/2021,43,"€205,35",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+NL,Netherlands,19/04/2021,25/04/2021,43,"€231,50",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 PL,Poland,19/04/2021,25/04/2021,43,"€192,51",TONNES,Feed barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,19/04/2021,25/04/2021,43,"€215,58",TONNES,Feed wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,19/04/2021,25/04/2021,43,"€209,17",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,19/04/2021,25/04/2021,43,"€208,05",TONNES,Feed wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,19/04/2021,25/04/2021,43,"€213,91",TONNES,Milling wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,19/04/2021,25/04/2021,43,"€169,05",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,19/04/2021,25/04/2021,43,"€202,22",TONNES,Maize,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,19/04/2021,25/04/2021,43,"€206,63",TONNES,Milling wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,19/04/2021,25/04/2021,43,"€208,05",TONNES,Feed wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,19/04/2021,25/04/2021,43,"€209,17",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,19/04/2021,25/04/2021,43,"€164,76",TONNES,Feed rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,19/04/2021,25/04/2021,43,"€205,35",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,19/04/2021,25/04/2021,43,"€213,91",TONNES,Milling wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,19/04/2021,25/04/2021,43,"€206,63",TONNES,Milling wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,19/04/2021,25/04/2021,43,"€215,58",TONNES,Feed wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,19/04/2021,25/04/2021,43,"€202,46",TONNES,Feed wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
 PT,Portugal,19/04/2021,25/04/2021,43,"€230,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,19/04/2021,25/04/2021,43,"€270,00",TONNES,Feed wheat,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,19/04/2021,25/04/2021,43,"€265,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
+RO,Romania,19/04/2021,25/04/2021,43,"€209,09",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,19/04/2021,25/04/2021,43,"€203,00",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,19/04/2021,25/04/2021,43,"€182,70",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,19/04/2021,25/04/2021,43,"€206,58",TONNES,Maize,Constanta,Free On Board - Incoterm
-RO,Romania,19/04/2021,25/04/2021,43,"€203,00",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,19/04/2021,25/04/2021,43,"€230,04",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
-RO,Romania,19/04/2021,25/04/2021,43,"€209,09",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
 SK,Slovakia,19/04/2021,25/04/2021,43,"€184,61",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
 SK,Slovakia,19/04/2021,25/04/2021,43,"€161,88",TONNES,Maize,Bratislava,Departure from farm or from production area - on truck or other transport means
-SI,Slovenia,19/04/2021,25/04/2021,43,"€209,80",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,19/04/2021,25/04/2021,43,"€219,99",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
-ES,Spain,19/04/2021,25/04/2021,43,"€197,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
+SI,Slovenia,19/04/2021,25/04/2021,43,"€209,80",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 ES,Spain,19/04/2021,25/04/2021,43,"€280,00",TONNES,Durum wheat,Sevilla,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,19/04/2021,25/04/2021,43,"€215,80",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,19/04/2021,25/04/2021,43,"€197,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,19/04/2021,25/04/2021,43,"€242,60",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,19/04/2021,25/04/2021,43,"€221,49",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
-AT,Austria,08/03/2021,14/03/2021,37,"€207,00",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,08/03/2021,14/03/2021,37,"€205,00",TONNES,Feed wheat,Wels,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,08/03/2021,14/03/2021,37,"€173,50",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,08/03/2021,14/03/2021,37,"€207,50",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,08/03/2021,14/03/2021,37,"€204,50",TONNES,Milling wheat,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,08/03/2021,14/03/2021,37,"€182,50",TONNES,Feed barley,Wels,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,08/03/2021,14/03/2021,37,"€207,00",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,08/03/2021,14/03/2021,37,"€173,50",TONNES,Feed barley,Wien,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,08/03/2021,14/03/2021,37,"€204,50",TONNES,Milling wheat,Wien,Departure from silo - after some storage - on truck or other transport means
 BE,Belgium,08/03/2021,14/03/2021,37,"€241,00",TONNES,Maize,Brussel - Bruxelles,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,08/03/2021,14/03/2021,37,"€219,86",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,08/03/2021,14/03/2021,37,"€222,42",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,08/03/2021,14/03/2021,37,"€209,63",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,08/03/2021,14/03/2021,37,"€219,86",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 HR,Croatia,08/03/2021,14/03/2021,37,"€196,45",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 HR,Croatia,08/03/2021,14/03/2021,37,"€201,72",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
-FI,Finland,08/03/2021,14/03/2021,37,"€152,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
-FI,Finland,08/03/2021,14/03/2021,37,"€163,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,08/03/2021,14/03/2021,37,"€174,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
+FI,Finland,08/03/2021,14/03/2021,37,"€163,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,08/03/2021,14/03/2021,37,"€190,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,08/03/2021,14/03/2021,37,"€222,44",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
+FI,Finland,08/03/2021,14/03/2021,37,"€152,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
 FR,France,08/03/2021,14/03/2021,37,"€240,94",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,08/03/2021,14/03/2021,37,"€228,69",TONNES,Maize,Bordeaux,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,08/03/2021,14/03/2021,37,"€239,94",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
-DE,Germany,08/03/2021,14/03/2021,37,"€196,50",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
-DE,Germany,08/03/2021,14/03/2021,37,"€237,50",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
+FR,France,08/03/2021,14/03/2021,37,"€222,44",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,08/03/2021,14/03/2021,37,"€228,69",TONNES,Maize,Bordeaux,Delivered to port - grain delivered to a port silo by train or truck or barge
 DE,Germany,08/03/2021,14/03/2021,37,"€201,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,08/03/2021,14/03/2021,37,"€237,50",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,08/03/2021,14/03/2021,37,"€196,50",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,08/03/2021,14/03/2021,37,"€233,50",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 HU,Hungary,08/03/2021,14/03/2021,37,"€204,60",TONNES,Maize,Budapest,"Delivered to a port silo, by train or truck or barge - grain exchange quotation"
-IE,Ireland,08/03/2021,14/03/2021,37,"€245,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IE,Ireland,08/03/2021,14/03/2021,37,"€218,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,08/03/2021,14/03/2021,37,"€290,00",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,08/03/2021,14/03/2021,37,"€212,50",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,08/03/2021,14/03/2021,37,"€230,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IE,Ireland,08/03/2021,14/03/2021,37,"€245,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,08/03/2021,14/03/2021,37,"€236,50",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-LV,Latvia,08/03/2021,14/03/2021,37,"€171,31",TONNES,Feed wheat,Jelgava,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,08/03/2021,14/03/2021,37,"€212,50",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,08/03/2021,14/03/2021,37,"€290,00",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,08/03/2021,14/03/2021,37,"€230,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 LV,Latvia,08/03/2021,14/03/2021,37,"€225,96",TONNES,Milling wheat,Riga,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,08/03/2021,14/03/2021,37,"€194,98",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,08/03/2021,14/03/2021,37,"€205,08",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,08/03/2021,14/03/2021,37,"€175,16",TONNES,Malting barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LV,Latvia,08/03/2021,14/03/2021,37,"€171,31",TONNES,Feed wheat,Jelgava,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,08/03/2021,14/03/2021,37,"€135,62",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,08/03/2021,14/03/2021,37,"€175,16",TONNES,Malting barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,08/03/2021,14/03/2021,37,"€205,08",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,08/03/2021,14/03/2021,37,"€170,79",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,08/03/2021,14/03/2021,37,"€194,98",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 NL,Netherlands,08/03/2021,14/03/2021,37,"€250,00",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,08/03/2021,14/03/2021,37,"€244,50",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,08/03/2021,14/03/2021,37,"€222,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-PL,Poland,08/03/2021,14/03/2021,37,"€184,02",TONNES,Feed barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,08/03/2021,14/03/2021,37,"€160,51",TONNES,Feed rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,08/03/2021,14/03/2021,37,"€215,42",TONNES,Feed wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,08/03/2021,14/03/2021,37,"€161,43",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,08/03/2021,14/03/2021,37,"€208,08",TONNES,Milling wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,08/03/2021,14/03/2021,37,"€197,04",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€218,97",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€209,91",TONNES,Feed wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,08/03/2021,14/03/2021,37,"€190,43",TONNES,Maize,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€197,04",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€160,51",TONNES,Feed rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€208,08",TONNES,Milling wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€161,43",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€144,01",TONNES,Feed oats,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,08/03/2021,14/03/2021,37,"€200,65",TONNES,Feed wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,08/03/2021,14/03/2021,37,"€212,75",TONNES,Milling wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,08/03/2021,14/03/2021,37,"€144,01",TONNES,Feed oats,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,08/03/2021,14/03/2021,37,"€209,91",TONNES,Feed wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,08/03/2021,14/03/2021,37,"€218,97",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€215,42",TONNES,Feed wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,08/03/2021,14/03/2021,37,"€184,02",TONNES,Feed barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PT,Portugal,08/03/2021,14/03/2021,37,"€247,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,08/03/2021,14/03/2021,37,"€225,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,08/03/2021,14/03/2021,37,"€247,50",TONNES,Feed wheat,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-PT,Portugal,08/03/2021,14/03/2021,37,"€247,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 RO,Romania,08/03/2021,14/03/2021,37,"€231,97",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
+RO,Romania,08/03/2021,14/03/2021,37,"€219,41",TONNES,Maize,Constanta,Free On Board - Incoterm
+RO,Romania,08/03/2021,14/03/2021,37,"€184,24",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,08/03/2021,14/03/2021,37,"€204,71",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,08/03/2021,14/03/2021,37,"€182,20",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,08/03/2021,14/03/2021,37,"€184,24",TONNES,Milling wheat,Banat,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,08/03/2021,14/03/2021,37,"€219,41",TONNES,Maize,Constanta,Free On Board - Incoterm
 SK,Slovakia,08/03/2021,14/03/2021,37,"€174,21",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
 SK,Slovakia,08/03/2021,14/03/2021,37,"€154,95",TONNES,Maize,Bratislava,Departure from farm or from production area - on truck or other transport means
 SI,Slovenia,08/03/2021,14/03/2021,37,"€207,74",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,08/03/2021,14/03/2021,37,"€196,05",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 ES,Spain,08/03/2021,14/03/2021,37,"€185,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
-ES,Spain,08/03/2021,14/03/2021,37,"€233,00",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,08/03/2021,14/03/2021,37,"€285,00",TONNES,Durum wheat,Sevilla,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,08/03/2021,14/03/2021,37,"€217,00",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,08/03/2021,14/03/2021,37,"€233,00",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,08/03/2021,14/03/2021,37,"€219,83",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
+AT,Austria,25/01/2021,31/01/2021,31,"€175,00",TONNES,Feed barley,Wels,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,25/01/2021,31/01/2021,31,"€191,00",TONNES,Feed wheat,Wien,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,25/01/2021,31/01/2021,31,"€183,00",TONNES,Maize,Wien,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,25/01/2021,31/01/2021,31,"€202,50",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,25/01/2021,31/01/2021,31,"€192,50",TONNES,Feed wheat,Wels,Departure from silo - after some storage - on truck or other transport means
-AT,Austria,25/01/2021,31/01/2021,31,"€175,00",TONNES,Feed barley,Wels,Departure from silo - after some storage - on truck or other transport means
+AT,Austria,25/01/2021,31/01/2021,31,"€202,50",TONNES,Milling wheat,Wels,Departure from silo - after some storage - on truck or other transport means
 AT,Austria,25/01/2021,31/01/2021,31,"€197,00",TONNES,Milling wheat,Wien,Departure from silo - after some storage - on truck or other transport means
 BE,Belgium,25/01/2021,31/01/2021,31,"€232,00",TONNES,Maize,Brussel - Bruxelles,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,25/01/2021,31/01/2021,31,"€186,62",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
-BG,Bulgaria,25/01/2021,31/01/2021,31,"€199,41",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
 BG,Bulgaria,25/01/2021,31/01/2021,31,"€209,63",TONNES,Milling wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
-HR,Croatia,25/01/2021,31/01/2021,31,"€162,60",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
+BG,Bulgaria,25/01/2021,31/01/2021,31,"€199,41",TONNES,Feed wheat,Dobrich,Departure from farm or from production area - on truck or other transport means
+BG,Bulgaria,25/01/2021,31/01/2021,31,"€186,62",TONNES,Maize,Pleven,Departure from farm or from production area - on truck or other transport means
 HR,Croatia,25/01/2021,31/01/2021,31,"€194,33",TONNES,Milling wheat,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
+HR,Croatia,25/01/2021,31/01/2021,31,"€162,60",TONNES,Maize,Zagreb Depsilo,Departure from silo - after some storage - on truck or other transport means
 CZ,Czechia,25/01/2021,31/01/2021,31,"€188,61",TONNES,Milling wheat,Praha (Delivered),Deliver to first customer - silo or processing plant - on truck or other transport means
+FI,Finland,25/01/2021,31/01/2021,31,"€145,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,25/01/2021,31/01/2021,31,"€170,00",TONNES,Malting barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
 FI,Finland,25/01/2021,31/01/2021,31,"€200,00",TONNES,Milling wheat,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FI,Finland,25/01/2021,31/01/2021,31,"€145,00",TONNES,Feed oats,Seinäjoki,Deliver to first customer - silo or processing plant - on truck or other transport means
 FI,Finland,25/01/2021,31/01/2021,31,"€154,00",TONNES,Feed barley,Naantali,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,25/01/2021,31/01/2021,31,"€212,01",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,25/01/2021,31/01/2021,31,"€226,61",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
-FR,France,25/01/2021,31/01/2021,31,"€228,95",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
 FR,France,25/01/2021,31/01/2021,31,"€225,51",TONNES,Maize,Bordeaux,Delivered to port - grain delivered to a port silo by train or truck or barge
-DE,Germany,25/01/2021,31/01/2021,31,"€204,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
-DE,Germany,25/01/2021,31/01/2021,31,"€233,00",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
+FR,France,25/01/2021,31/01/2021,31,"€228,95",TONNES,Milling wheat,La Pallice,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,25/01/2021,31/01/2021,31,"€226,61",TONNES,Milling wheat,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
+FR,France,25/01/2021,31/01/2021,31,"€212,01",TONNES,Feed barley,Rouen,Delivered to port - grain delivered to a port silo by train or truck or barge
 DE,Germany,25/01/2021,31/01/2021,31,"€230,00",TONNES,Feed wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 DE,Germany,25/01/2021,31/01/2021,31,"€188,00",TONNES,Milling rye,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,25/01/2021,31/01/2021,31,"€204,00",TONNES,Feed barley,Hamburg,Departure from silo - after some storage - on truck or other transport means
+DE,Germany,25/01/2021,31/01/2021,31,"€233,00",TONNES,Milling wheat,Hamburg,Departure from silo - after some storage - on truck or other transport means
 EL,Greece,25/01/2021,31/01/2021,31,"€200,00",TONNES,Maize,Serres,Price at farm gate
 IE,Ireland,25/01/2021,31/01/2021,31,"€240,00",TONNES,Feed wheat,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IE,Ireland,25/01/2021,31/01/2021,31,"€214,00",TONNES,Feed barley,Dublin/North East/Midlands,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,25/01/2021,31/01/2021,31,"€213,50",TONNES,Feed barley,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,25/01/2021,31/01/2021,31,"€236,50",TONNES,Milling wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-IT,Italy,25/01/2021,31/01/2021,31,"€297,00",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 IT,Italy,25/01/2021,31/01/2021,31,"€226,00",TONNES,Maize,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
-LV,Latvia,25/01/2021,31/01/2021,31,"€217,78",TONNES,Milling wheat,Riga,Deliver to first customer - silo or processing plant - on truck or other transport means
+IT,Italy,25/01/2021,31/01/2021,31,"€297,00",TONNES,Durum wheat,Bologna,Deliver to first customer - silo or processing plant - on truck or other transport means
 LV,Latvia,25/01/2021,31/01/2021,31,"€197,07",TONNES,Feed wheat,Jelgava,Deliver to first customer - silo or processing plant - on truck or other transport means
+LV,Latvia,25/01/2021,31/01/2021,31,"€217,78",TONNES,Milling wheat,Riga,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,25/01/2021,31/01/2021,31,"€168,64",TONNES,Feed barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,25/01/2021,31/01/2021,31,"€128,47",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,25/01/2021,31/01/2021,31,"€193,92",TONNES,Feed wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,25/01/2021,31/01/2021,31,"€127,47",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,25/01/2021,31/01/2021,31,"€172,25",TONNES,Malting barley,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
 LT,Lithuania,25/01/2021,31/01/2021,31,"€197,82",TONNES,Milling wheat,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
-LT,Lithuania,25/01/2021,31/01/2021,31,"€128,47",TONNES,Feed rye,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+LT,Lithuania,25/01/2021,31/01/2021,31,"€127,47",TONNES,Feed oats,Vilnius,Deliver to first customer - silo or processing plant - on truck or other transport means
+NL,Netherlands,25/01/2021,31/01/2021,31,"€221,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,25/01/2021,31/01/2021,31,"€239,00",TONNES,Feed wheat,Rotterdam,"Cost, Insurance and Freight - Incoterm"
 NL,Netherlands,25/01/2021,31/01/2021,31,"€237,50",TONNES,Maize,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-NL,Netherlands,25/01/2021,31/01/2021,31,"€221,00",TONNES,Feed barley,Rotterdam,"Cost, Insurance and Freight - Incoterm"
-PL,Poland,25/01/2021,31/01/2021,31,"€188,10",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,25/01/2021,31/01/2021,31,"€202,45",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,25/01/2021,31/01/2021,31,"€204,94",TONNES,Milling wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,25/01/2021,31/01/2021,31,"€203,17",TONNES,Milling wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,25/01/2021,31/01/2021,31,"€154,16",TONNES,Malting barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,25/01/2021,31/01/2021,31,"€173,68",TONNES,Maize,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,25/01/2021,31/01/2021,31,"€187,56",TONNES,Feed wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,25/01/2021,31/01/2021,31,"€161,47",TONNES,Feed barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
-PL,Poland,25/01/2021,31/01/2021,31,"€200,36",TONNES,Feed wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,25/01/2021,31/01/2021,31,"€142,88",TONNES,Feed rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€154,16",TONNES,Malting barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,25/01/2021,31/01/2021,31,"€142,80",TONNES,Milling rye,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€203,17",TONNES,Milling wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€204,94",TONNES,Milling wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€161,47",TONNES,Feed barley,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€202,45",TONNES,Milling wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€200,36",TONNES,Feed wheat,Kujawsko-Mazurski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€188,10",TONNES,Maize,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€187,56",TONNES,Feed wheat,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
 PL,Poland,25/01/2021,31/01/2021,31,"€203,66",TONNES,Feed wheat,Zachodni,Deliver to first customer - silo or processing plant - on truck or other transport means
+PL,Poland,25/01/2021,31/01/2021,31,"€173,68",TONNES,Maize,Slaski,Deliver to first customer - silo or processing plant - on truck or other transport means
+PT,Portugal,25/01/2021,31/01/2021,31,"€225,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,25/01/2021,31/01/2021,31,"€256,50",TONNES,Feed wheat,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
 PT,Portugal,25/01/2021,31/01/2021,31,"€245,00",TONNES,Maize,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-PT,Portugal,25/01/2021,31/01/2021,31,"€225,00",TONNES,Feed barley,Lisboa,"Shipped to the place (port), unloaded, on truck leaving port"
-RO,Romania,25/01/2021,31/01/2021,31,"€144,41",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
+RO,Romania,25/01/2021,31/01/2021,31,"€209,83",TONNES,Maize,Constanta,Free On Board - Incoterm
 RO,Romania,25/01/2021,31/01/2021,31,"€232,52",TONNES,Milling wheat,Constanta,Free On Board - Incoterm
+RO,Romania,25/01/2021,31/01/2021,31,"€144,41",TONNES,Feed wheat,Oltenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,25/01/2021,31/01/2021,31,"€186,26",TONNES,Feed barley,Muntenia,Departure from silo - after some storage - on truck or other transport means
 RO,Romania,25/01/2021,31/01/2021,31,"€182,22",TONNES,Maize,Oltenia,Departure from silo - after some storage - on truck or other transport means
-RO,Romania,25/01/2021,31/01/2021,31,"€209,83",TONNES,Maize,Constanta,Free On Board - Incoterm
 SK,Slovakia,25/01/2021,31/01/2021,31,"€169,04",TONNES,Milling wheat,Bratislava,Departure from farm or from production area - on truck or other transport means
 SK,Slovakia,25/01/2021,31/01/2021,31,"€137,70",TONNES,Maize,Bratislava,Departure from farm or from production area - on truck or other transport means
 SI,Slovenia,25/01/2021,31/01/2021,31,"€175,73",TONNES,Maize,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
 SI,Slovenia,25/01/2021,31/01/2021,31,"€215,01",TONNES,Milling wheat,Ljubljana,Deliver to first customer - silo or processing plant - on truck or other transport means
-ES,Spain,25/01/2021,31/01/2021,31,"€180,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,25/01/2021,31/01/2021,31,"€210,00",TONNES,Milling wheat,Burgos,Departure from silo - after some storage - on truck or other transport means
+ES,Spain,25/01/2021,31/01/2021,31,"€180,00",TONNES,Feed barley,Valladolid,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,25/01/2021,31/01/2021,31,"€223,20",TONNES,Maize,Leon,Departure from silo - after some storage - on truck or other transport means
 ES,Spain,25/01/2021,31/01/2021,31,"€280,00",TONNES,Durum wheat,Sevilla,Departure from silo - after some storage - on truck or other transport means
 SE,Sweden,25/01/2021,31/01/2021,31,"€218,75",TONNES,Milling wheat,Södra Sverige,Free On Board - Incoterm
