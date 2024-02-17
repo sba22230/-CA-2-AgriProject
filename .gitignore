@@ -130,3 +130,4 @@ dmypy.json
 CA-2-AgriProject.docx
 Data/Raw/IGA/*.pdf
 Data/Final/text_data.csv
+.vs/*
